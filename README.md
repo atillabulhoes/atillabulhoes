@@ -1,7 +1,7 @@
 ### Hi,there! 👋
 
 - 🔭 Trabalhando com front-end em projetos pessoais
-- 🌱 Estudando diariamente JavaScript
+- 🌱 Estudando diariamente
 
 
 <div align="center">
