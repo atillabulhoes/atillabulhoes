@@ -1,4 +1,4 @@
-### Opa,tudo bom?  👋
+### Opa! Tudo bom?  👋
 
 
 - 🔨 Trabalhando com front-end em projetos pessoais.
