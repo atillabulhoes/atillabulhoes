@@ -1,7 +1,8 @@
 ### Hi,there! 👋
 
-- 🔭 Trabalhando com front-end em projetos pessoais
-- 🌱 Estudando diariamente
+- 🔨 Trabalhando com front-end em projetos pessoais.
+- 🖥️ Estudando diariamente.
+- 👨‍👩‍👧  Conciliando os projetos com a paternidade e o casamento. 
 
 
 <div align="center">
