@@ -1,4 +1,4 @@
-### Olá! Eu me chamdo Atilla, seja bem vindo ao meu perfil 👋
+### Hi,there! 👋
 
 - 🔭 Trabalhando com front-end em projetos pessoais
 - 🌱 Estudando diariamente JavaScript
