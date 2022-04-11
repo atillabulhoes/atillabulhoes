@@ -1,5 +1,7 @@
 ### Hi,there! 👋
 
+<div class="tenor-gif-embed" data-postid="22164679" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/forest-gump-wave-hi-hello-howdy-gif-22164679">Forest Gump Wave GIF</a>from <a href="https://tenor.com/search/forest+gump-gifs">Forest Gump GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 - 🔨 Trabalhando com front-end em projetos pessoais.
 - 🖥️ Estudando diariamente.
 - 👨‍👩‍👧  Conciliando os projetos com a paternidade e o casamento. 
