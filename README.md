@@ -1,9 +1,9 @@
-### Opa! Tudo bom?  👋
+### O  👋
 
 
-- 🔨 Trabalhando com front-end em projetos pessoais.
-- 🖥️ Estudando diariamente.
-- 👨‍👩‍👧  Conciliando os projetos com a paternidade e o casamento. 
+- 🔨 Working.
+- 🖥️ Studying.
+- 👨‍👩‍👧 Family. 
 
 
 <div align="center">
